@@ -1,1 +1,8 @@
-
+Es importante que las plataformas tecnológicas puedan recibir reportes de los ciudadanos de forma estructurada porque esto permite organizar la información de manera clara y fácil de procesar.
+Cuando los datos siguen un formato definido, como JSON, los sistemas pueden leerlos automáticamente sin errores.
+Esto agiliza la atención de las incidencias y reduce el tiempo de respuesta de las autoridades o entidades responsables.
+Además, evita confusiones, ya que todos los reportes siguen el mismo orden de información.
+También facilita el análisis de datos para identificar problemas frecuentes en la comunidad.
+Con información estructurada, se pueden generar estadísticas más precisas y tomar mejores decisiones.
+Esto mejora la eficiencia de las plataformas digitales y la calidad del servicio público.
+En general, contribuye a una comunicación más efectiva entre ciudadanos y gobierno.
