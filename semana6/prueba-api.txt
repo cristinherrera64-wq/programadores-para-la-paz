@@ -1,1 +1,9 @@
+servidor devolvería una respuesta en formato JSON, que es un tipo de estructura de datos usada en APIs para intercambiar información entre el cliente y el servidor.
 
+En este caso, la respuesta indica que el servidor recibió correctamente los datos enviados y devuelve un mensaje de confirmación junto con información adicional.
+
+Específicamente, es una respuesta de tipo éxito (confirmación) que incluye:
+
+Un estado que confirma la recepción de la información.
+Datos asociados al usuario (como el nombre).
+Un mensaje descriptivo que sirve como retroalimentación.
