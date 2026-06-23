@@ -1,1 +1,12 @@
+¿Qué hace esta ruta?
 
+Una ruta en una API (por ejemplo en Express) define cómo responde el servidor cuando un usuario hace una solicitud a una dirección específica.
+Por ejemplo, una ruta como GET /api/comunidad sirve para que el servidor envíe información cuando alguien la consulta desde una aplicación o navegador. Es decir, recibe una petición y devuelve datos como respuesta.
+
+Para qué podría servir en una aplicación comunitaria?
+
+En una aplicación comunitaria, esta ruta podría servir para mostrar información útil para los usuarios, como:
+Publicaciones de la comunidad
+Noticias o anuncios del barrio
+Listas de proyectos sociales o iniciativas ciudadanas
+Información de participación o eventos
