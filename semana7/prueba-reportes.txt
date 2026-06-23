@@ -1,1 +1,6 @@
-
+Al consultar la ruta **GET /reportes**, el servidor recibe una solicitud para obtener la información de los reportes registrados en el sistema.
+Como respuesta, devuelve una lista de objetos en formato JSON que contienen los datos de cada reporte.
+En el ejemplo mostrado, se obtiene un reporte con identificador 1, clasificado en la categoría "Infraestructura" y con la descripción 
+"Daño en alumbrado público". Esto permite que los usuarios o administradores visualicen los reportes 
+almacenados y puedan hacer seguimiento a las necesidades o problemas reportados por la comunidad.
+La consulta mediante el método GET no modifica la información existente; únicamente recupera y muestra los datos que ya se encuentran registrados en el sistema.
