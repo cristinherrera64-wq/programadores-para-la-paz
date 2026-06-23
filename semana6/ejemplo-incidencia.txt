@@ -1,1 +1,10 @@
+Ejemplo de JSON para reporte de incidencia ciudadana:
 
+{
+  "ciudadano": "Juan Pérez",
+  "documento": "1023456789",
+  "tipo_incidencia": "Daño en vía pública",
+  "ubicacion": "Calle 10 con Carrera 5, Villavicencio",
+  "descripcion": "Hay un hueco grande en la vía que dificulta el paso de vehículos y peatones.",
+  "fecha_reporte": "2026-06-22"
+}
