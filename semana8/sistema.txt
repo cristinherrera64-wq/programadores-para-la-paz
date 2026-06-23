@@ -1,1 +1,6 @@
-
+Cada comando proporciona información importante sobre el estado y la configuración del sistema.
+Por ejemplo, el comando `pwd` muestra la ubicación actual dentro del sistema de archivos, `ls` permite ver los archivos y carpetas disponibles,
+y `uname -a` ofrece detalles sobre el sistema operativo y el kernel. Esta información es útil para administrar un servidor
+porque permite conocer su estructura, verificar configuraciones, 
+identificar posibles problemas y realizar tareas de mantenimiento de manera más eficiente. 
+Además, ayuda a garantizar la seguridad, el rendimiento y la estabilidad del sistema.
