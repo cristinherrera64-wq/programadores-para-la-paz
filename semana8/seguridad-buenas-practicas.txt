@@ -1,1 +1,5 @@
+1. Utilizar contraseñas fuertes y únicas para cada cuenta, evitando datos personales fáciles de adivinar.
 
+2. No compartir usuarios, contraseñas ni credenciales de acceso con terceros para proteger la información personal y organizacional.
+
+3. Mantener el sistema operativo, las aplicaciones y los programas actualizados para reducir riesgos de seguridad y corregir posibles vulnerabilidades.
