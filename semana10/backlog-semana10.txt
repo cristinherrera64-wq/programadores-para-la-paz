@@ -1,1 +1,9 @@
+1. Como líder comunitario quiero asignar un responsable a cada caso para asegurar que todas las solicitudes tengan seguimiento.
 
+2. Como ciudadano quiero adjuntar fotografías o documentos como evidencia para respaldar mi solicitud.
+
+3. Como veedor ciudadano quiero consultar estadísticas de los casos atendidos para evaluar la gestión de la comunidad.
+
+4. Como administrador quiero clasificar los reportes por categoría para facilitar su organización y búsqueda.
+
+5. Como integrante de la comunidad quiero recibir una notificación cuando un caso sea resuelto para conocer el resultado del proceso.
