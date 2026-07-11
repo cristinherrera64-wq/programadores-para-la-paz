@@ -1,1 +1,8 @@
+Evento que activa el flujo:
+Cuando un ciudadano registra una nueva solicitud en el sistema.
 
+Mensaje que se enviaría a Telegram:
+"Se ha recibido una nueva solicitud comunitaria. Ingrese al sistema para revisarla y asignar un responsable."
+
+Información que no debería enviarse por seguridad:
+No se deben enviar nombres completos, números de identificación, direcciones, teléfonos, contraseñas ni ningún otro dato personal o sensible.
