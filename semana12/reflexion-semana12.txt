@@ -1,1 +1,8 @@
-
+Durante este curso aprendí que la tecnología puede ser una herramienta muy útil para fortalecer la participación ciudadana y la organización comunitaria.
+Comprendí la importancia de planificar un proyecto mediante un backlog y trabajar por iteraciones para mejorar continuamente. 
+También aprendí que una base de datos permite organizar y consultar la información de manera eficiente. 
+Entendí que la autenticación de usuarios ayuda a proteger el acceso a la plataforma y a cuidar la información. 
+Además, conocí el uso de herramientas como n8n y Telegram para automatizar tareas y mejorar la comunicación.
+Aprendí que la automatización debe utilizarse de forma responsable y siempre protegiendo los datos personales. 
+También comprendí la importancia de generar documentos y reportes para dar seguimiento a las actividades.
+En conjunto, estos conocimientos permiten desarrollar plataformas más organizadas, seguras y útiles para la comunidad.
