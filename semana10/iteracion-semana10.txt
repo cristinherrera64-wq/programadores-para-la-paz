@@ -1,1 +1,22 @@
+1. ¿Qué 2 tareas del backlog harías primero?
 
+- Permitir que el líder comunitario asigne un responsable a cada caso.
+- Permitir que el ciudadano adjunte fotografías o documentos como evidencia.
+
+2. ¿Por qué son las más importantes?
+
+Porque asignar un responsable garantiza que cada caso tenga seguimiento, y adjuntar evidencias ayuda a verificar la información y facilita la toma de decisiones.
+
+3. ¿Qué significa para ti que una tarea esté “terminada”?
+
+Una tarea está terminada cuando:
+
+- Funciona correctamente.
+- Fue probada y no presenta errores.
+- Quedó registrada y respaldada en Git.
+
+Definición:
+
+- La funcionalidad cumple con lo solicitado.
+- Fue probada y funciona sin errores.
+- El código quedó guardado y registrado en Git.
