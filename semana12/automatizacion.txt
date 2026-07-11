@@ -1,1 +1,8 @@
+Evento que activa la automatización:
+Cuando una causa comunitaria recibe un nuevo apoyo.
 
+Mensaje que se envía:
+"La causa comunitaria ha recibido un nuevo apoyo. Revise la plataforma para ver la actualización."
+
+Información que no debe enviarse por seguridad:
+No se deben enviar cédulas, teléfonos, direcciones, correos electrónicos, contraseñas, comentarios privados ni otros datos personales o sensibles.
